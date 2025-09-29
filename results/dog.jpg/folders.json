@@ -1,0 +1,21 @@
+[
+  {"k":100, "retry":100, "alpha":130, "epsilon":6},
+  {"k":100, "retry":120, "alpha":40, "epsilon":6},
+  {"k":100, "retry":130, "alpha":10, "epsilon":6},
+  {"k":100, "retry":140, "alpha":8, "epsilon":6},
+  {"k":100, "retry":80, "alpha":20, "epsilon":6},
+  {"k":10, "retry":100, "alpha":130, "epsilon":6},
+  {"k":10, "retry":100, "alpha":13, "epsilon":6, "fix":true},
+  {"k":10, "retry":140, "alpha":4, "epsilon":6, "fix":true},
+  {"k":10, "retry":140, "alpha":8, "epsilon":6},
+  {"k":10, "retry":220, "alpha":2, "epsilon":6, "fix":true},
+  {"k":150, "retry":140, "alpha":4, "epsilon":6, "fix":true},
+  {"k":150, "retry":140, "alpha":8, "epsilon":6},
+  {"k":1, "retry":100, "alpha":13, "epsilon":6, "fix":true},
+  {"k":1, "retry":220, "alpha":2, "epsilon":6, "fix":true},
+  {"k":200, "retry":100, "alpha":130, "epsilon":6},
+  {"k":50, "retry":100, "alpha":130, "epsilon":6},
+  {"k":50, "retry":140, "alpha":4, "epsilon":6, "fix":true},
+  {"k":50, "retry":140, "alpha":8, "epsilon":6},
+  {"k":5, "retry":220, "alpha":2, "epsilon":6, "fix":true}
+]
